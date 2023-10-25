@@ -42,10 +42,12 @@ Detail the prerequisites that users or developers need to have in place before t
    git clone https://github.com/your-username/your-repo.git
 
 2. For backend dependencies
+    ```bash
    cd backend
    npm install
    
 3. For frontend dependencies
+    ```bash
    cd application
    npm install
 
