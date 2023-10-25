@@ -7,20 +7,7 @@
 
 I have used Material UI library in ReactJS for the front end and ExpressJS for the backend. Additionally I used MySQL as a database. The table structure for storing the details in the database is as follows:
 
-+-------------------+--------------+------+-----+---------+----------------+
-| Field             | Type         | Null | Key | Default | Extra          |
-+-------------------+--------------+------+-----+---------+----------------+
-| id                | int          | NO   | PRI | NULL    | auto_increment |
-| Fname             | varchar(255) | YES  |     | NULL    |                |
-| Lname             | varchar(255) | YES  |     | NULL    |                |
-| SchoolName        | varchar(255) | YES  |     | NULL    |                |
-| City              | varchar(255) | YES  |     | NULL    |                |
-| State             | varchar(255) | YES  |     | NULL    |                |
-| ProgramOfInterest | json         | YES  |     | NULL    |                |
-| resume            | longblob     | YES  |     | NULL    |                |
-| DOB               | date         | YES  |     | NULL    |                |
-| email             | varchar(255) | YES  |     | NULL    |                |
-+-------------------+--------------+------+-----+---------+----------------+
+![Database]("./database.png")
 
 
 
