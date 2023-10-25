@@ -7,7 +7,7 @@
 
 I have used Material UI library in ReactJS for the front end and ExpressJS for the backend. Additionally I used MySQL as a database. The table structure for storing the details in the database is as follows:
 
-![Database]("./database.png")
+![Database]("https://github.com/black-blip/ApplicationForm/blob/main/database.png")
 
 
 
